@@ -1,0 +1,3 @@
+
+echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /home/ali-ubuntu/.profile
+    eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
